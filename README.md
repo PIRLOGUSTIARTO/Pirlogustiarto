@@ -1,16 +1,28 @@
-### Hi there 👋
-
-<!--
-**PIRLOGUSTIARTO/Pirlogustiarto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>kartu nama</title>
+</head>
+<body>
+    <div class="container">
+        <div class="profile-box">
+            <img src="menu-icon-24.png" class="menu">
+            <img src="3524659.png" class="setting">
+            <img src="2.jpg" class="profile">
+            <h3>Pirlo Gustiarto</h3>
+            <p>halo saya siswa smkn 9 kab.tangerang jurusan tjkt</p>
+            <div class="medsos">
+                <img src="download-removebg-preview.png" class="facebook">
+                <img src="png-clipart-social-media-instagram-login-graphy-ig-instagram-icon-rectangle-magenta-removebg-preview.png"instagram">
+                <img src="png-transparent-tiktok-tiktok-logo-tiktok-icon-thumbnail-removebg-preview.png" class="tiktok">
+            </div>
+            <button type="button">follow me</button>
+            <div class="profile-bottom">
+                <p>terimakasih yang sudah follow social media saya</p>
+            </div> 
+        </div>
+    </div>
+</body>
